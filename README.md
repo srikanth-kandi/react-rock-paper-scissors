@@ -1,3 +1,7 @@
+# Rock Paper Scissors using ReactJS ⚛️
+
+Live demo - [https://srikanth-kandi.github.io/react-rock-paper-scissors/](https://srikanth-kandi.github.io/react-rock-paper-scissors/)
+
 In this project, let's build a **Rock Paper Scissors** by applying the concepts we have learned till now.
 
 ### Refer to the image below:
