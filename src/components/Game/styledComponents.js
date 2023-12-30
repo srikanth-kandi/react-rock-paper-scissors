@@ -4,7 +4,7 @@ import 'reactjs-popup/dist/index.css'
 
 export const BgContainer = styled.div`
   background-color: #223a5f;
-  height: 100vh;
+  height: 100dvh;
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -14,7 +14,7 @@ export const BgContainer = styled.div`
 export const MainContainer = styled.div`
   width: 90%;
   color: #ffffff;
-  height: 95vh;
+  height: 95dvh;
   display: flex;
   flex-direction: column;
   justify-content: space-between;
